@@ -1,0 +1,17 @@
+curl -o "Impression_Sunrise+Claude_Monet" "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Claude_Monet%2C_Impression%2C_soleil_levant.jpg/600px-Claude_Monet%2C_Impression%2C_soleil_levant.jpg"
+curl -o "The_Fighting_Temeraire+J._M._W._Turner" "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/440px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg"
+curl -o "Dance_at_Le_Moulin_de_la_Galette+Pierre_Auguste_Renior" "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg/440px-Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg"
+curl -o "Luncheon_on_the_Grass+Edouard_Manet" "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/440px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg"
+curl -o "View_of_the_Canal_Saint_Martin+Alfre_ Sisley" "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alfred_Sisley_001.jpg/440px-Alfred_Sisley_001.jpg"
+curl -o "Haystacks+Claude_Monet" "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Claude_Monet_-_Graystaks_I.JPG/440px-Claude_Monet_-_Graystaks_I.JPG"
+curl -o "Woman_with_a_Parasol+Claude_Monet" "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg/340px-Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg"
+curl -o "Boulevard_Montmartre+Camille_Pissarro" "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg/440px-Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg"
+curl -o "Lydia_Leaning_on_Her_Arms+Mary_Cassatt" "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cassatt_Mary_At_the_Theater_1879.jpg/340px-Cassatt_Mary_At_the_Theater_1879.jpg"
+curl -o "Hay_Harvest_at_Éragny+Camille_Pissarro" "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hay_Harvest_at_%C3%89ragny%2C_1901%2C_Camille_Pissarro.jpg/440px-Hay_Harvest_at_%C3%89ragny%2C_1901%2C_Camille_Pissarro.jpg"
+curl -o "Reading+Berthe_Morisot" "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Berthe_Morisot_Reading.jpg/440px-Berthe_Morisot_Reading.jpg"
+curl -o "12" "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Claude_Monet_-_Jardin_%C3%A0_Sainte-Adresse.jpg/440px-Claude_Monet_-_Jardin_%C3%A0_Sainte-Adresse.jpg"
+curl -o "13" "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Berthe_Morisot_The_Harbor_at_Lorient.jpg/440px-Berthe_Morisot_The_Harbor_at_Lorient.jpg"
+curl -o "14" "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Young_Girl_at_a_Window.JPG/340px-Young_Girl_at_a_Window.JPG"
+curl -o "15" "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eva_Gonzal%C3%A8s_%281849-1883%29_Een_loge_in_het_Th%C3%A9%C3%A2tre_des_Italiens_%281874%29_Mus%C3%A9e_d%27Orsay_22-8-2017_17-29-43.JPG/440px-Eva_Gonzal%C3%A8s_%281849-1883%29_Een_loge_in_het_Th%C3%A9%C3%A2tre_des_Italiens_%281874%29_Mus%C3%A9e_d%27Orsay_22-8-2017_17-29-43.JPG"
+
+
